@@ -1,0 +1,2 @@
+Startup info
+another info
