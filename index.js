@@ -1,2 +1,3 @@
 const obj = { name: 'James' };
-New changes
+
+console.log(obj);
